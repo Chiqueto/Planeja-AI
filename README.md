@@ -228,3 +228,10 @@ Projeto acadêmico para a disciplina **Desenvolvimento Web 2** – uso educacion
 - [Supabase Docs](https://supabase.com/docs)
 - [Express.js](https://expressjs.com/)
 - [LangChain Docs](https://js.langchain.com/docs/)
+
+---
+
+## 🚀 Aplicação em Produção
+
+- **Frontend (Vercel):** https://marcio-todolist.vercel.app  
+- **Backend (Azure Container App):** https://capp-marcio-todolist.agreeabledune-669790b3.brazilsouth.azurecontainerapps.io
